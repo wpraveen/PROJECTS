@@ -1,0 +1,20 @@
+#Generated
+node_modules/
+bower_components/
+build/
+dist/
+npm-debug.log
+
+#IDE Specific files
+
+#Atom
+*.tern-project
+#SublimeText
+*.sublime-project
+*.sublime-workspace
+
+#Eclipse
+.project
+
+#OSX
+.DS_Store
